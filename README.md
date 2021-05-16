@@ -1,2 +1,2 @@
-# myFirstBrowserApp
-my first browser app. JavaScript + HTML + CSS
+# Browser app Procrastinate
+ browser app Procrastinate: JavaScript + HTML + CSS
